@@ -1,0 +1,7 @@
+"vislrp"
+{
+	"base"		"base"
+	"title"		"VislRP"
+	"maps"		""
+	"menusystem"	"1"
+}

@@ -1,0 +1,5 @@
+ENT.Type = "anim"
+ENT.Base = "base_gmodentity"
+ENT.Category = "VislRP"
+ENT.PrintName = "item"
+ENT.Author = "Dexter"

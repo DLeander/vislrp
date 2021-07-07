@@ -1,0 +1,6 @@
+1. byta jobb i bil respawnar dig inte.
+2. Spawnar käpprätt åt helvete
+3. bil-restriktioner 
+4. despawn bil efter jobb-byte
+5. --FIXED-- hunger går över 100
+6. --FIXED-- suits i clothes store ( kolla om suit är på, isåfall använd vanlig modell i clothes shop )
